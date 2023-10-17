@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harold-Odro
 - 👀 I’m interested in Gaming and Data Analytics
-- 🌱 I’m currently learning Data Science and AWS
+- 🌱 I’m currently learning Data Science and Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me...I can be contacted on harodro@gmail.com
 
